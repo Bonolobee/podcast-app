@@ -101,4 +101,4 @@ During this session, you must:
 - Break down the **logic** behind key functionalities (e.g., how audio persistence or favouriting works).
 - Be prepared to answer **questions** from the coaches about your project, code structure, and implementation choices.
 
-This is your opportunity to showcase both your technical and problem-solving skills—treat it like a real-world project revsiew.
+This is your opportunity to showcase both your
